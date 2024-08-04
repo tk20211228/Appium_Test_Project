@@ -143,6 +143,7 @@ Java JDK をインストールします。最新の Android API レベルには 
 #### エミュレータを使用する場合
 
 1. Android Studio を使用して Android Virtual Device (AVD) を作成し、起動します。
+
 2. 必要な API レベルのシステムイメージをダウンロードします。
 
 #### 実機を使用する場合
